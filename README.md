@@ -10,10 +10,12 @@ Nesse projeto foi criado um site pessoal utilizando HTML5 e CSS3, sua criação ve
 
 ## Resultado atual 
 
-<img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20201028151928402.png" alt="image-20201028151928402" style="zoom:67%;" />
+
+
+![](img\imagem1.jpg)
 
 
 
-<img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20201028151956751.png" alt="image-20201028151956751" style="zoom: 67%;" />
+![](img\imagem2.jpg)
 
 Como podemos observar, ficou muito simples mesmo, futuramente, pretendo melhorar ele e adicionar algo realmente condizente com a realidade!
