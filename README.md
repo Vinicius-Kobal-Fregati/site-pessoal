@@ -11,10 +11,10 @@ Nesse projeto foi criado um site pessoal utilizando HTML5 e CSS3, sua criação 
 ## Resultado atual 
 
 
-<img src=”\img\imagem1.jpg”>
+<img src=".\img\imagem1.jpg">
 
 
-<img src=”\img\imagem2.jpg”>
+<img src=".\img\imagem2.jpg">
 
 
 Como podemos observar, ficou muito simples mesmo, futuramente, pretendo melhorar ele e adicionar algo realmente condizente com a realidade!
